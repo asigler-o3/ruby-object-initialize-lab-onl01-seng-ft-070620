@@ -1,5 +1,5 @@
 class Dog
-  def Dog("Mutt")
+  def Dog(breed)
     @breed = breed
   end
 
